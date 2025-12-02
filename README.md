@@ -35,12 +35,12 @@ steamlit run steamlit.py
 
 
 ### 📂 Project Structure
-Simple-RAG-with-pdf/
-│── main.py             # Main script
-│── requirements.txt    # Dependencies
-│── README.md           # Documentation
-│── data/|              # PDF files
-|── data/cashe/         # Cashe of pdf files
+#### Simple-RAG-with-pdf/
+#### │── main.py             - Main script
+#### │── requirements.txt    - Dependencies
+#### │── README.md           - Documentation
+#### │── data/|              - PDF files
+#### |── data/cashe/         - Cashe files
 
 ### 🧪 Example
 You have a PDF about UAE property market(Given in data folder).
@@ -54,6 +54,7 @@ The system will:
 - Pass it to the LLM
 - Generate a grounded answer based only on the PDF content
 
+![Untitled design](https://github.com/user-attachments/assets/85087b5f-bc55-4b0d-bf0b-c56545028bf0)
 
 
 
