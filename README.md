@@ -47,7 +47,7 @@ You have a PDF about UAE property market(Given in data folder).
 
 You can ask:
 
-> In forst month of 2025 how may residential transactions?
+> In first month of 2025 how may residential transactions?
 
 The system will:
 - Retrieve the most relevant chunk from the PDF
