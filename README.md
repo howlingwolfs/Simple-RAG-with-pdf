@@ -1,5 +1,5 @@
 # 📘 Simple-RAG-with-PDF
-A minimal implementation of Retrieval-Augmented Generation (RAG) using Ollama and PDF files.
+An implementation of Retrieval-Augmented Generation (RAG) using Ollama and PDF files.
 ### 🔍 What is RAG?
 RAG (Retrieval-Augmented Generation) is an AI technique that enhances Large Language Model (LLM) responses by retrieving relevant information from an external knowledge base before generating an answer.
 This makes the output:
